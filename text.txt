@@ -1,2 +1,4 @@
 Lorem from user Owner repository
 Lorem from user partner of Owner repository
+
+Lorem from user partner of Owner repository №2
